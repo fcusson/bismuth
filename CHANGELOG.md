@@ -5,6 +5,18 @@
 
 # Changelog
 
+## [3.1.0](https://www.github.com/Bismuth-Forge/bismuth/compare/v3.0.0...v3.1.0) (2022-03-25)
+
+
+### Features
+
+* add an option to disable "drag out to float" behavior ([bb68131](https://www.github.com/Bismuth-Forge/bismuth/commit/bb68131e1be31b4f920da8c4b7dcb2e42f85b461))
+
+
+### Bug Fixes
+
+* add zoom windows to the default ignore list ([d563c40](https://www.github.com/Bismuth-Forge/bismuth/commit/d563c4045eeb6e8cc30d2e2d29f635888cdbbd79))
+
 ## [3.0.0](https://www.github.com/Bismuth-Forge/bismuth/compare/v2.3.0...v3.0.0) (2022-03-20)
 
 
