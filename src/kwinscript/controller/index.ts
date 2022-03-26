@@ -426,6 +426,7 @@ export class ControllerImpl implements Controller {
       new Action.ToggleFloatingLayout(this.engine, this.log),
       new Action.ToggleQuarterLayout(this.engine, this.log),
       new Action.ToggleSpiralLayout(this.engine, this.log),
+      new Action.ToggleVerticalLayout(this.engine, this.log),
 
       new Action.Rotate(this.engine, this.log),
       new Action.RotateReverse(this.engine, this.log),
